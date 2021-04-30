@@ -1,0 +1,7 @@
+{
+  "expansion":[{
+    "unit": "mm","coefficient": 0.1,"convert_to": "cm"},
+    {"unit": "km","coefficient": 100000.0,"convert_to": "cm"},
+    {"unit": "yd","coefficient": 91.44,"convert_to": "cm"}
+  ]
+}
